@@ -17,11 +17,14 @@ The following list includes the blogs that are created and maintained by only 1 
 ## Newsletter
 - Towards Data Science
 - KDnuggets
-- Analytics Vidhya 
+- **[Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed)**
 - OpenAI Blog
 - Google AI Blog
 - Data Science Central
 - Fast.ai
-- The Gradient
-- Distill.pub
-- **[The BAIR Blog]()**: The Berkeley Artificial Intelligence Research (BAIR) blog is a blog run by the BAIR research group at UC Berkeley
+- **[The Gradient](https://thegradient.pub/)**
+- **[Distill](https://distill.pub/)**
+- **[The BAIR Blog](https://bair.berkeley.edu/blog/)**: The Berkeley Artificial Intelligence Research (BAIR) blog is a blog run by the BAIR research group at UC Berkeley
+- **[Data Phoenix](https://dataphoenix.info/articles/)**
+- **[Data Machina](http://datamachina.com/)**
+- **[The Bellamy](https://analyticsindiamagazine.substack.com/)**
