@@ -10,4 +10,18 @@ The following list includes the blogs that are created and maintained by only 1 
 - **[Andrej Karpathy](http://karpathy.github.io/)** - a founding member at OpenAI and now the Sr. Director of AI at Tesla
 - **[Christopher Olah](http://colah.github.io/)** - co-founded [Distill](https://distill.pub/) and [Anthropic](https://www.anthropic.com/)
 - **[Denny Britz](https://dennybritz.com/)**
-- **[Tim Dettmers](https://timdettmers.com/)
+- **[Tim Dettmers](https://timdettmers.com/)**
+- **[Machine Learning Mastery](https://machinelearningmastery.com/blog)**
+- **[Machine Learning is Fun](https://www.machinelearningisfun.com/)**
+
+## Newsletter
+- Towards Data Science
+- KDnuggets
+- Analytics Vidhya 
+- OpenAI Blog
+- Google AI Blog
+- Data Science Central
+- Fast.ai
+- The Gradient
+- Distill.pub
+- **[The BAIR Blog]()**: The Berkeley Artificial Intelligence Research (BAIR) blog is a blog run by the BAIR research group at UC Berkeley
