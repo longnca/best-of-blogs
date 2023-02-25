@@ -15,9 +15,9 @@ The following list includes the blogs that are created and maintained by only 1 
 - **[Machine Learning is Fun](https://www.machinelearningisfun.com/)**
 
 ## Newsletter
-- **[Towards Data Science](https://towardsdatascience.com/)**
 - **[KDnuggets](https://www.kdnuggets.com/)**
 - **[Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed)**
+- **[Towards Data Science](https://towardsdatascience.com/)**
 - **[OpenAI Blog](https://openai.com/blog/)**
 - **[Google AI Blog](https://ai.googleblog.com/)**
 - **[Data Science Central](https://www.datasciencecentral.com/)**
