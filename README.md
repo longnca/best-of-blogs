@@ -15,13 +15,13 @@ The following list includes the blogs that are created and maintained by only 1 
 - **[Machine Learning is Fun](https://www.machinelearningisfun.com/)**
 
 ## Newsletter
-- Towards Data Science
-- KDnuggets
+- **[Towards Data Science](https://towardsdatascience.com/)**
+- **[KDnuggets](https://www.kdnuggets.com/)**
 - **[Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed)**
-- OpenAI Blog
-- Google AI Blog
-- Data Science Central
-- Fast.ai
+- **[OpenAI Blog](https://openai.com/blog/)**
+- **[Google AI Blog](https://ai.googleblog.com/)**
+- **[Data Science Central](https://www.datasciencecentral.com/)**
+- **[Fast.ai](https://www.fast.ai/)**
 - **[The Gradient](https://thegradient.pub/)**
 - **[Distill](https://distill.pub/)**
 - **[The BAIR Blog](https://bair.berkeley.edu/blog/)**: The Berkeley Artificial Intelligence Research (BAIR) blog is a blog run by the BAIR research group at UC Berkeley
