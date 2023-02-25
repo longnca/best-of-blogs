@@ -10,3 +10,4 @@ The following list includes the blogs that are created and maintained by only 1 
 - **[Andrej Karpathy](http://karpathy.github.io/)** - a founding member at OpenAI and now the Sr. Director of AI at Tesla
 - **[Christopher Olah](http://colah.github.io/)** - co-founded [Distill](https://distill.pub/) and [Anthropic](https://www.anthropic.com/)
 - **[Denny Britz](https://dennybritz.com/)**
+- **[Tim Dettmers](https://timdettmers.com/)
