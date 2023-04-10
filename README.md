@@ -27,4 +27,4 @@ The following list includes the blogs that are created and maintained by only 1 
 - **[The BAIR Blog](https://bair.berkeley.edu/blog/)**: The Berkeley Artificial Intelligence Research (BAIR) blog is a blog run by the BAIR research group at UC Berkeley
 - **[Data Phoenix](https://dataphoenix.info/articles/)**
 - **[Data Machina](http://datamachina.com/)**
-- **[The Bellamy](https://analyticsindiamagazine.substack.com/)**
+- **[The Bellamy](https://analyticsindiamagazine.substack.com/)** -- Newsletter-style
