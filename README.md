@@ -18,6 +18,7 @@ The following list includes the blogs that are created and maintained by only 1 
 - **[KDnuggets](https://www.kdnuggets.com/)**
 - **[Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed)**
 - **[Towards Data Science](https://towardsdatascience.com/)**
+- **[Artificial Intelligence Newsletter](https://www.linkedin.com/newsletters/6598352935271358464/)** run by [Andriy Burkov](https://www.linkedin.com/in/andriyburkov/)
 - **[OpenAI Blog](https://openai.com/blog/)**
 - **[Google AI Blog](https://ai.googleblog.com/)**
 - **[Data Science Central](https://www.datasciencecentral.com/)**
