@@ -21,9 +21,9 @@ As an aspiring data analyst or data scientist just like me, you're probably alre
 - **[The Bellamy](https://analyticsindiamagazine.substack.com/)** - This Substack-hosted website offers a weekly digest of notable tech stories, covering a range of topics within the tech realm, providing insights and updates to its readers.
 
 ## Inactive Blogs
-The following blog authors are not regularly active or no longer updating their websites recently.
-- **[Andrej Karpathy](http://karpathy.github.io/)** - a founding member at OpenAI and now the Sr. Director of AI at Tesla, last updated March 2022.
-- **[Denny Britz](https://dennybritz.com/)** - Ex-Google Brain. He's not active on his blog, but a regular contributor on GitHub. [His repos](https://github.com/dennybritz) are worth checking out.
-- **[Tim Dettmers](https://timdettmers.com/)** - last updated January 2023.
-- **[Christopher Olah](http://colah.github.io/)** - co-founded [Distill](https://distill.pub/) and [Anthropic](https://www.anthropic.com/) (the AI lab that created Claude).
-- **[Distill](https://distill.pub/)** - Distill is a valuable resource for both experts and newcomers to machine learning. It is highly regarded for its high-quality, peer-reviewed articles that often come with engaging visuals and interactive demonstrations. Sadly, this website is no longer active with its last article published in September 2021.
+The following blog authors are either not regularly active or no longer updating their websites:
+- **[Andrej Karpathy](http://karpathy.github.io/)** - A founding member at OpenAI and now the Sr. Director of AI at Tesla. Last updated in March 2022.
+- **[Denny Britz](https://dennybritz.com/)** - Ex-Google Brain. While his blog isn't active, he's a regular contributor on GitHub. [His repositories](https://github.com/dennybritz) are worth exploring.
+- **[Tim Dettmers](https://timdettmers.com/)** - Last update was in January 2023.
+- **[Christopher Olah](http://colah.github.io/)** - Co-founded [Distill](https://distill.pub/) and [Anthropic](https://www.anthropic.com/) (the AI lab that created Claude).
+- **[Distill](https://distill.pub/)** - Highly regarded for its high-quality, peer-reviewed articles featuring engaging visuals and interactive demonstrations. Sadly, it ceased updates in September 2021.
