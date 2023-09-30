@@ -4,17 +4,16 @@ This repository is  a personal curated list of the top DA/DS/ML blogs that I fin
 
 As an aspiring data analyst or data scientist just like me, you're probably already aware of the importance of staying current on industry trends and insights. With so much information available out there, it can be very challenging to know where to begin, especially since our time is limited. This is where following blogs can be highly beneficial. I believe that bookmarking or subscribing to the top machine learning blogs to gain access to expert insights and best practices can help you speed up your learning and stay ahead of the curve.
 
-
 - **[KDnuggets](https://www.kdnuggets.com/)**
 - **[Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed)**
 - **[Towards Data Science](https://towardsdatascience.com/)**
-- **[Machine Learning Mastery](https://machinelearningmastery.com/blog)**
+- **[Machine Learning Mastery](https://machinelearningmastery.com/blog)** - a highly knowledgeable website of tutorials ranging from basic to advanced topics.
 - **[Machine Learning is Fun](https://www.machinelearningisfun.com/)** - various tutorials written in a very straightforward and concise way, ranging a lot of topics in ML.
-- **[Artificial Intelligence Newsletter](https://www.linkedin.com/newsletters/6598352935271358464/)** run by [Andriy Burkov](https://www.linkedin.com/in/andriyburkov/)
-- **[OpenAI Blog](https://openai.com/blog/)**
-- **[Google AI Blog](https://ai.googleblog.com/)**
-- **[Data Science Central](https://www.datasciencecentral.com/)**
-- **[Fast.ai](https://www.fast.ai/)**
+- **[Artificial Intelligence Newsletter](https://www.linkedin.com/newsletters/6598352935271358464/)** run by talented [Andriy Burkov](https://www.linkedin.com/in/andriyburkov/). A LinkedIn newsletter, which gives short and updated news about the advances in the AI industry.
+- **[OpenAI Blog](https://openai.com/blog/)** - you can check out updates on OpenAI's advances in AI and especially their flagship product, ChatGPT.
+- **[Google AI Blog](https://ai.googleblog.com/)** - a similar site to OpenAI's, all about the updates from Google's AI team. 
+- **[Data Science Central](https://www.datasciencecentral.com/)** - live up to their motto: "A community for big data practitioners"
+- **[Fast.ai](https://www.fast.ai/)** - co-created by two leading AI experts from Australia, Jeremy Howard and Rachel Thomas, this company (and its website) offers free classes on deep learning.
 - **[The Gradient](https://thegradient.pub/)**
 - **[Distill](https://distill.pub/)**
 - **[The BAIR Blog](https://bair.berkeley.edu/blog/)**: The Berkeley Artificial Intelligence Research (BAIR) blog is a blog run by the BAIR research group at UC Berkeley
