@@ -26,18 +26,19 @@ Also covers deep learning.
 
 ## Data Engineering 
 - **[Data Patterns](https://ergestx.substack.com/)** - A Substack newsletter written by [Ergest Xheblati](https://www.ergestx.com/), a seasoned data architect with 15+ years designing and building data warehouses. Focuses on data engineering-related topics.
-- **[Joe Reis](https://joereis.substack.com/)** - Joe is a co-author of one of the bestsellers on Amazon, Fundamentals of Data Engineering, published by O'Reilly (IYKYK). He also hosts two excellent podcasts (which I will mention in another curated list post).
+- **[Joe Reis](https://joereis.substack.com/)** - Co-author of the Amazon bestseller "Fundamentals of Data Engineering," published by O'Reilly (IYKYK). Joe also hosts two excellent podcasts (to be mentioned in another list).
 - **[EcZachly Data Engineering Newsletter](https://blog.dataengineer.io/)** - Authored by Zach Wilson on Substack, it focuses on data engineering topics. As an ex-Meta, ex-Netflix, and ex-AirBnb data engineer, Zach is the guy who you can trust.
-- **[SeattleDataGuy](https://seattledataguy.substack.com/)** - Written by Ben Rogojan, his YouTube channel, [Seattle Data Guy](https://www.youtube.com/c/seattledataguy), is among the most loved channels about data engineering IMO.
+- **[SeattleDataGuy](https://seattledataguy.substack.com/)** - Written by Ben Rogojan, his YouTube channel, [Seattle Data Guy](https://www.youtube.com/c/seattledataguy), is highly regarded for its data engineering content.
+- **[Towards Data Engineering](https://medium.com/towards-data-engineering)** - A Medium publication offering curated insights into data engineering.
 - **[Data Engineer Things](https://blog.det.life/)** - A publication on Medium dedicated to data engineering topics.
 - **[Jesse Anderson](https://www.jesse-anderson.com/category/blog/)** - Managed by a data engineer, covering various data engineering topics.
-- **[David Jayatillake](https://davidsj.substack.com/)** - I enjoy his writings since his posts not only deliver a great understanding of data engineering but also showcase his wisdom. 
-- **[Data Engineering Weekly](https://www.dataengineeringweekly.com/)** - A Substack newsletter curated by Ananth Packkildurai, focusing on the latest trends, best practices, and developments in the data engineering domain.
-- **[Data Engineering Central](https://dataengineeringcentral.substack.com/)** - A Substack newsletter run by Daniel Beach. Offers insights into data engineering topics, covering areas like database connections, transactions, data architecture, and more.
+- **[David Jayatillake](https://davidsj.substack.com/)** - I enjoy his writings since his posts offer deep insights into data engineering coupled with broader wisdom. 
+- **[Data Engineering Weekly](https://www.dataengineeringweekly.com/)** - A Substack newsletter curated by Ananth Packkildurai, highlighting the latest trends, best practices, and developments in the data engineering domain.
+- **[Data Engineering Central](https://dataengineeringcentral.substack.com/)** - A Substack newsletter by Daniel Beach, exploring database connections, transactions, data architecture, and other data engineering aspects.
 - **[AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/)** - Covers data engineering topics particularly in the AWS ecosystem.
 
 ## Generals & Other Technologies
-- **[ByteByteGo](https://blog.bytebytego.com/)** - A Substack newsletter written by a popular book author, Alex Xu, provides bite-sized illustrated articles about system designs.
+- **[ByteByteGo](https://blog.bytebytego.com/)** - A Substack newsletter written by a popular book author, Alex Xu, provides bite-sized well-illustrated articles on system designs.
 - **[The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)** - Acclaimed as the #1 tech newsletter [on Substack](https://substack.com/leaderboard/technology/paid) by Gergely Orosz, ex-Uber, Skype/Microsoft engineer, offering insider views on Big Tech and startups, actionable advice, market trends analysis, and unbiased insights with a strict no-sponsorship policy.
 
 ## Inactive Blogs
@@ -48,3 +49,4 @@ The following blog authors are either not regularly active or no longer updating
 - **[Christopher Olah](http://colah.github.io/)** - Co-founded [Distill](https://distill.pub/) and [Anthropic](https://www.anthropic.com/) (the AI lab that created Claude).
 - **[Distill](https://distill.pub/)** - Highly regarded for its high-quality, peer-reviewed articles featuring engaging visuals and interactive demonstrations. Sadly, it ceased updates in September 2021.
 - **[Data Council Blog](https://www.datacouncil.ai/blog)**: Offers articles on data engineering and related fields. Last updated in April 2021.
+- **[Meta Analytics](https://medium.com/@AnalyticsAtMeta)** - A Medium publication by the analytics team at Meta. Last updated in April 2023.
