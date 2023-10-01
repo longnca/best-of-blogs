@@ -8,7 +8,7 @@ As an aspiring data analyst or data scientist just like me, you're probably alre
 While data science overlaps with machine learning (ML) and artificial intelligence (AI), I've categorized the following blogs/websites separately. This indicates that their primary content centers on data science rather than ML/AI.
 - **[KDnuggets](https://www.kdnuggets.com/)** - A well-known platform in the data science community. (Note: **KD** stands for **K**nowledge **D**iscovery). Provides articles, tutorials, and news on topics like statistics, data science, ML, and AI contributed by various experts in the field.
 - **[Analytics Vidhya](https://www.analyticsvidhya.com/blog/?utm_source=feed)** - Another resourceful platform for data science enthusiasts and professionals. Features articles, tutorials, and case studies on data science, ML, and related topics, aimed to explain complex concepts in a digestible manner.
-- **[Towards Data Science](https://towardsdatascience.com/)** - A Medium publication with whopping 674K subscribers (as of September 2023). It offers a wide array of articles on data science, ML, and AI. It serves as a platform for individuals to share their insights, findings, and experiences within the data science community. 
+- **[Towards Data Science](https://towardsdatascience.com/)** - A Medium publication with whopping 674K subscribers (as of September 2023). Serves as a platform for individuals to share their insights, findings, and experiences within the data science community. 
 
 ## Machine Learning (ML) and Artificial Intelligence (AI)
 Also covers deep learning.
