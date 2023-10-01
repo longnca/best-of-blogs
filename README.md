@@ -25,15 +25,20 @@ Also covers deep learning.
 - **[Data Machina](http://datamachina.com/)** - A weekly newsletter updating readers on recent research, projects, and repositories in AI and ML.
 
 ## Data Engineering 
-- **[Data Patterns](https://ergestx.substack.com/)** - A Substack newsletter curated by [Ergest Xheblati](https://www.ergestx.com/), a seasoned data architect with 15+ years designing and building data warehouses. Focuses on data engineering-related topics.
-- **[EcZachly Data Engineering Newsletter](https://blog.dataengineer.io/)** - Curated by Zach Wilson on Substack, it focuses on data engineering topics. As an ex-Meta, ex-Netflix, and ex-AirBnb data engineer, Zach is the guy who you can trust.
-
+- **[Data Patterns](https://ergestx.substack.com/)** - A Substack newsletter written by [Ergest Xheblati](https://www.ergestx.com/), a seasoned data architect with 15+ years designing and building data warehouses. Focuses on data engineering-related topics.
+- **[Joe Reis](https://joereis.substack.com/)** - Joe is a co-author of one of the bestsellers on Amazon, Fundamentals of Data Engineering, published by O'Reilly (IYKYK). He also hosts two excellent podcasts (which I will mention in another curated list post).
+- **[EcZachly Data Engineering Newsletter](https://blog.dataengineer.io/)** - Authored by Zach Wilson on Substack, it focuses on data engineering topics. As an ex-Meta, ex-Netflix, and ex-AirBnb data engineer, Zach is the guy who you can trust.
+- **[SeattleDataGuy](https://seattledataguy.substack.com/)** - Written by Ben Rogojan, his YouTube channel, [Seattle Data Guy](https://www.youtube.com/c/seattledataguy), is among the most loved channels about data engineering IMO.
 - **[Data Engineer Things](https://blog.det.life/)** - A publication on Medium dedicated to data engineering topics.
 - **[Jesse Anderson](https://www.jesse-anderson.com/category/blog/)** - Managed by a data engineer, covering various data engineering topics.
 - **[David Jayatillake](https://davidsj.substack.com/)** - I enjoy his writings since his posts not only deliver a great understanding of data engineering but also showcase his wisdom. 
 - **[Data Engineering Weekly](https://www.dataengineeringweekly.com/)** - A Substack newsletter curated by Ananth Packkildurai, focusing on the latest trends, best practices, and developments in the data engineering domain.
-- **[Data Engineering Central](https://dataengineeringcentral.substack.com/)** - A Substack newsletter curated by Daniel Beach. Offers insights into data engineering topics, covering areas like database connections, transactions, data architecture, and more.
+- **[Data Engineering Central](https://dataengineeringcentral.substack.com/)** - A Substack newsletter run by Daniel Beach. Offers insights into data engineering topics, covering areas like database connections, transactions, data architecture, and more.
 - **[AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/)** - Covers data engineering topics particularly in the AWS ecosystem.
+
+## Generals & Other Technologies
+- **[ByteByteGo](https://blog.bytebytego.com/)** - A Substack newsletter written by a popular book author, Alex Xu, provides bite-sized illustrated articles about system designs.
+- **[The Pragmatic Engineer](https://newsletter.pragmaticengineer.com/)** - Acclaimed as the #1 tech newsletter [on Substack](https://substack.com/leaderboard/technology/paid) by Gergely Orosz, ex-Uber, Skype/Microsoft engineer, offering insider views on Big Tech and startups, actionable advice, market trends analysis, and unbiased insights with a strict no-sponsorship policy.
 
 ## Inactive Blogs
 The following blog authors are either not regularly active or no longer updating their websites:
