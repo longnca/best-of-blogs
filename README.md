@@ -36,6 +36,7 @@ Also covers deep learning.
 - **[Data Engineering Weekly](https://www.dataengineeringweekly.com/)** - A Substack newsletter curated by Ananth Packkildurai, highlighting the latest trends, best practices, and developments in the data engineering domain.
 - **[Data Engineering Central](https://dataengineeringcentral.substack.com/)** - A Substack newsletter by Daniel Beach, exploring database connections, transactions, data architecture, and other data engineering aspects.
 - **[AWS Big Data Blog](https://aws.amazon.com/blogs/big-data/)** - Covers data engineering topics particularly in the AWS ecosystem.
+- **[Holistics.io](https://www.holistics.io/blog/)** - Various good blog posts about Business Intelligence and Data Modeling.
 
 ## Generals & Other Technologies
 - **[ByteByteGo](https://blog.bytebytego.com/)** - A Substack newsletter written by a popular book author, Alex Xu, provides bite-sized well-illustrated articles on system designs.
